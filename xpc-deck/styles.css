@@ -1,0 +1,163 @@
+body
+{
+  background-color: whitesmoke;
+  font-size: 16px;
+  min-width: 1000px;
+}
+p
+{
+  line-height: 25px;
+  text-align: justify;
+}
+table
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td, th
+{
+  border: 1px solid black;
+  padding: 2px 4px;
+}
+
+#corpo
+{
+  background-color: white;
+  margin: auto;
+  width: 75%;
+}
+#rel
+{
+  margin: auto;
+  padding: 20px 0px 20px 0px;
+  width: 80%;
+}
+
+#logo-div
+{
+  display: flex;
+  font-family: sans-serif;
+}
+#logo-x
+{
+  font-size: 74px;
+}
+#logo-div-rest
+{
+  display: flex;
+  flex-direction: column;
+}
+#logo-rest
+{
+  font-size: 20px;
+  margin-top: 11px;
+  margin-left: 3px;
+}
+#logo-rest-barra1
+{
+  background-color: rgb(196, 110, 87);
+  font-size: 8px;
+  margin-top: 2px;
+  margin-left: 3px;
+  border: 1px solid black;
+  width: 90%;
+}
+#logo-rest-barra2
+{
+  background-color: rgb(243, 150, 91);
+  font-size: 8px;
+  margin-top: -1px;
+  margin-left: 3px;
+  border: 1px solid black;
+  width: 60%;
+}
+#logo-rest-barra3
+{
+  background-color: rgb(246, 232, 71);
+  font-size: 8px;
+  margin-top: -1px;
+  margin-left: 3px;
+  border: 1px solid black;
+  width: 60%;
+}
+#logo-rest-as
+{
+  height: 26px;
+  width: 17px;
+  margin-top: -32px;
+  margin-left: 14px;
+}
+#logo-rest-back
+{
+  height: 26px;
+  width: 17px;
+  margin-top: -22px;
+  margin-left: 19px;
+}
+
+#disclaimer
+{
+  border: 1px solid gray;
+  margin: 0px 20px;
+  padding: 0px 28px;
+  font-size: 13px;
+  background: #faa;
+}
+
+#sumary
+{
+  border: 1px solid gray;
+  background-color: lightyellow;
+  width: 250px;
+  padding: 0px 25px;
+}
+
+#img-tit
+{
+  font-size: 13px;
+  color: gray;
+}
+#img-aces
+{
+  height: 250px;
+  width: 375px;
+  border: 1px solid gray;
+}
+#img-logo-black
+{
+  height: 94px;
+  width: 171px;
+  border: 1px solid gray;
+}
+
+#div-all-cards
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+}
+#div-all-cards-row
+{
+  display: flex;
+  flex-direction: column;
+}
+
+#tabela-detail
+{
+  margin-left: 0px;
+}
+
+.red
+{
+  color: red;
+}
+.card-list
+{
+  width: 50px;
+  height: 77px;
+}
+.card-detail
+{
+  width: 300px;
+  height: 333px;
+}
