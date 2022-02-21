@@ -129,6 +129,12 @@ td, th
   width: 171px;
   border: 1px solid gray;
 }
+#img-gif-all-cards
+{
+  height: 250px;
+  width: 225px;
+  border: 1px solid gray;
+}
 
 #div-all-cards
 {
