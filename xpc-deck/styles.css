@@ -117,6 +117,16 @@ td, th
   font-size: 13px;
   color: gray;
 }
+#img-twit
+{
+  width: 22px;
+  height: 20px;
+}
+#img-solo
+{
+  width: 22px;
+  height: 20px;
+}
 #img-aces
 {
   height: 250px;
